@@ -1,4 +1,4 @@
-from django.http import HttpRespose
+ssss`rom django.http import HttpRespose
 
 
 def index(request)
